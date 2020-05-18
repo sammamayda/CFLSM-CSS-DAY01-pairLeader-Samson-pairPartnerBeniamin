@@ -2,3 +2,12 @@
 	margin:0;
 	padding:0;
 }
+
+.one{
+	border-bottom:solid;
+	font-size:0.5em;
+}
+
+.one h1 {
+	font-size:2em;
+}
